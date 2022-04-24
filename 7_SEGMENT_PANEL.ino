@@ -10,8 +10,8 @@
 #define D2 11 
 #define D3 10
 #define D4 9
-char digit[] = {D1,D2,D3,D4};
-char num[] = {A,B,C,D,E,F,G};
+char digit[] = {D1,D2,D3,D4};   //Digit
+char num[] = {A,B,C,D,E,F,G};   //Segment
 
 void setup() {
   pinMode(A, OUTPUT);
